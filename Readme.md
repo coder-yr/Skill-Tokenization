@@ -37,9 +37,4 @@ Our vision is to create an ecosystem where users are motivated to upskill and re
 Contract Address: 0xc6e3f55e87996a5cef8d8baf1f7a42cd23df98eef6007f276776f3d357e45833
 ```
 
-## Getting Started
-
-To deploy and interact with the Skill Tokenization smart contract, follow the instructions in the [Aptos documentation](https://aptos.dev/docs) for setting up your development environment.
-
----
 
